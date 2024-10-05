@@ -22,5 +22,5 @@ In training, 50% correct sentence pairs are mixed in with 50% random sentence pa
 # Fun Fact: BERT is trained on both MLM (50%) and NSP (50%) at the same time.
 
 ![image](https://github.com/user-attachments/assets/8cd26c13-d3c1-4330-97f5-40de2c81be8e)
-![image](https://github.com/user-attachments/assets/180b1e91-3f8b-4881-aab8-fe16af3c8df5)
+![image](https://github.com/user-attachments/assets/ceda2f3d-3cec-4a20-a5a6-72072f372e6b)
 ![image](https://github.com/user-attachments/assets/5f6d258e-7e57-4ee1-a94f-1193edf40151)
